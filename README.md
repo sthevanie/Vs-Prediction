@@ -1,5 +1,4 @@
-# Vs-Prediction
-Vs Prediction using Machine Learning
+# Vs-Prediction using Machine Learning
 Pada daerah penelitian, hanya terdapat satu sumur yang memiliki data nilai Vs dan menjadi sumur yang digunakan dalam penelitian.
 Data merupakan data confidential sehingga tidak akan saya cantumkan datanya.
 Sumur terdiri atas log berikut:
